@@ -2,7 +2,7 @@
 
 import requests # Library api request
 import json # Library data standardization
-import sqlite3 # Library SQlite
+import sqlite3 # Library SQLite
 import random # Library random numbers
 
 ### Connect to SQlite database  ###

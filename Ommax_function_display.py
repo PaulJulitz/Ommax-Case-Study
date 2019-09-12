@@ -2,7 +2,7 @@
 
 import Ommax_function_load as ofl
            
-def show():
+def display():
     data = ofl.load()
     
     for h in data: # Check if data is the same
